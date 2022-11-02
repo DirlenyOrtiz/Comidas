@@ -1,0 +1,15 @@
+.Titulo_1{
+    color: violet;
+    background-color: antiquewhite;
+
+}
+body{
+    background-image: url(https://i0.wp.com/www.buenossaborespanama.com/wp-content/uploads/2021/01/spaghetti-in-dish-on-wooden-background-scaled.jpg?resize=1024%2C683&ssl=1);
+   background-size: cover; 
+}
+.button{
+    background-color: chocolate;
+}
+.button p{
+    color:blanchedalmond
+}
